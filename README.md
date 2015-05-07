@@ -12,6 +12,6 @@ breadcrumbs and different colored circles.
 
 3. Run web server 
 
-  ```$ python -m SimpleHttpServer 8000 &.```
+  ```$ python -m SimpleHTTPServer 8000 &.```
   
 4. Open [http://localhost:8000](http://localhost:8000) to view demo
